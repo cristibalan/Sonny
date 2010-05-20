@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Mendoza</name>
+    <type>Regional capital</type>
+    <country>Argentina</country>
+    <timezone id="America/Argentina/Mendoza" utcoffsetMinutes="-180" />
+    <location altitude="824" latitude="-32.8833333" longitude="-68.8166667" geobase="geonames" geobaseid="3844421" />
+  </location>
+  <credit>
+    <!--In order to use the free weather data from yr no, you HAVE to display 
+the following text clearly visible on your web page. The text should be a 
+link to the specified URL.-->
+    <!--Please read more about our conditions and guidelines at http://www.yr.no/verdata/ -->
+    <link text="Weather forecast from yr.no, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Argentina/Mendoza/Mendoza/" />
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Argentina/Mendoza/Mendoza/forecast.xml" />
+    <link id="overview" url="http://www.yr.no/place/Argentina/Mendoza/Mendoza/" />
+    <link id="hourByHour" url="http://www.yr.no/place/Argentina/Mendoza/Mendoza/hour_by_hour.html" />
+    <link id="weekend" url="http://www.yr.no/place/Argentina/Mendoza/Mendoza/weekend.html" />
+    <link id="longTermForecast" url="http://www.yr.no/place/Argentina/Mendoza/Mendoza/long.html" />
+  </links>
+  <meta>
+    <lastupdate>2010-05-12T04:02:20</lastupdate>
+    <nextupdate>2010-05-12T17:00:00</nextupdate>
+  </meta>
+  <sun rise="2010-05-12T08:16:21" set="2010-05-12T18:46:33" />
+  <forecast>
+    <a>xxx</a>
+    <tabular>
+      <time from="2010-05-12T18:00:00" to="2010-05-13T00:00:00" period="3">
+        <!-- Valid from 2010-05-12T18:00:00 to 2010-05-13T00:00:00 -->
+        <symbol number="4" name="Cloudy" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-12T18:00:00 -->
+        <windDirection deg="53.0" code="NE" name="Northeast" />
+        <windSpeed mps="2.5" name="Light breeze" />
+        <temperature unit="celcius" value="17" />
+        <pressure unit="hPa" value="1011.6" />
+      </time>
+      <time from="2010-05-13T00:00:00" to="2010-05-13T06:00:00" period="0">
+        <!-- Valid from 2010-05-13T00:00:00 to 2010-05-13T06:00:00 -->
+        <symbol number="1" name="Fair" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-13T00:00:00 -->
+        <windDirection deg="45.8" code="NE" name="Northeast" />
+        <windSpeed mps="2.0" name="Light breeze" />
+        <temperature unit="celcius" value="12" />
+        <pressure unit="hPa" value="1012.9" />
+      </time>
+      <time from="2010-05-13T06:00:00" to="2010-05-13T12:00:00" period="1">
+        <!-- Valid from 2010-05-13T06:00:00 to 2010-05-13T12:00:00 -->
+        <symbol number="1" name="Fair" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-13T06:00:00 -->
+        <windDirection deg="162.5" code="SSE" name="South-southeast" />
+        <windSpeed mps="1.0" name="Light air" />
+        <temperature unit="celcius" value="8" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2010-05-13T12:00:00" to="2010-05-13T18:00:00" period="2">
+        <!-- Valid from 2010-05-13T12:00:00 to 2010-05-13T18:00:00 -->
+        <symbol number="3" name="Partly cloudy" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-13T12:00:00 -->
+        <windDirection deg="71.8" code="ENE" name="East-northeast" />
+        <windSpeed mps="1.7" name="Light breeze" />
+        <temperature unit="celcius" value="14" />
+        <pressure unit="hPa" value="1010.7" />
+      </time>
+      <time from="2010-05-13T18:00:00" to="2010-05-14T00:00:00" period="3">
+        <!-- Valid from 2010-05-13T18:00:00 to 2010-05-14T00:00:00 -->
+        <symbol number="1" name="Fair" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-13T18:00:00 -->
+        <windDirection deg="40.6" code="NE" name="Northeast" />
+        <windSpeed mps="1.9" name="Light breeze" />
+        <temperature unit="celcius" value="18" />
+        <pressure unit="hPa" value="1005.5" />
+      </time>
+      <time from="2010-05-14T00:00:00" to="2010-05-14T06:00:00" period="0">
+        <!-- Valid from 2010-05-14T00:00:00 to 2010-05-14T06:00:00 -->
+        <symbol number="1" name="Fair" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-14T00:00:00 -->
+        <windDirection deg="190.9" code="S" name="South" />
+        <windSpeed mps="1.0" name="Light air" />
+        <temperature unit="celcius" value="12" />
+        <pressure unit="hPa" value="1007.3" />
+      </time>
+      <time from="2010-05-14T06:00:00" to="2010-05-14T12:00:00" period="1">
+        <!-- Valid from 2010-05-14T06:00:00 to 2010-05-14T12:00:00 -->
+        <symbol number="1" name="Fair" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-14T06:00:00 -->
+        <windDirection deg="204.6" code="SSW" name="South-southwest" />
+        <windSpeed mps="1.5" name="Light air" />
+        <temperature unit="celcius" value="9" />
+        <pressure unit="hPa" value="1005.9" />
+      </time>
+      <time from="2010-05-14T12:00:00" to="2010-05-14T18:00:00" period="2">
+        <!-- Valid from 2010-05-14T12:00:00 to 2010-05-14T18:00:00 -->
+        <symbol number="3" name="Partly cloudy" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-14T12:00:00 -->
+        <windDirection deg="160.0" code="SSE" name="South-southeast" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celcius" value="16" />
+        <pressure unit="hPa" value="1007.1" />
+      </time>
+      <time from="2010-05-14T15:00:00" to="2010-05-14T21:00:00" period="3">
+        <!-- Valid from 2010-05-14T15:00:00 to 2010-05-14T21:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="6.2" />
+        <!-- Valid at 2010-05-14T15:00:00 -->
+        <windDirection deg="141.2" code="SE" name="Southeast" />
+        <windSpeed mps="4.0" name="Gentle breeze" />
+        <temperature unit="celcius" value="19" />
+        <pressure unit="hPa" value="1005.2" />
+      </time>
+      <time from="2010-05-14T21:00:00" to="2010-05-15T03:00:00" period="0">
+        <!-- Valid from 2010-05-14T21:00:00 to 2010-05-15T03:00:00 -->
+        <symbol number="10" name="Heavy rain" />
+        <precipitation value="8.5" />
+        <!-- Valid at 2010-05-14T21:00:00 -->
+        <windDirection deg="174.2" code="S" name="South" />
+        <windSpeed mps="7.5" name="Moderate breeze" />
+        <temperature unit="celcius" value="13" />
+        <pressure unit="hPa" value="1011.6" />
+      </time>
+      <time from="2010-05-15T03:00:00" to="2010-05-15T09:00:00" period="1">
+        <!-- Valid from 2010-05-15T03:00:00 to 2010-05-15T09:00:00 -->
+        <symbol number="10" name="Heavy rain" />
+        <precipitation value="4.8" />
+        <!-- Valid at 2010-05-15T03:00:00 -->
+        <windDirection deg="202.1" code="SSW" name="South-southwest" />
+        <windSpeed mps="7.2" name="Moderate breeze" />
+        <temperature unit="celcius" value="7" />
+        <pressure unit="hPa" value="1018.7" />
+      </time>
+      <time from="2010-05-15T09:00:00" to="2010-05-15T15:00:00" period="2">
+        <!-- Valid from 2010-05-15T09:00:00 to 2010-05-15T15:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="2.6" />
+        <!-- Valid at 2010-05-15T09:00:00 -->
+        <windDirection deg="203.2" code="SSW" name="South-southwest" />
+        <windSpeed mps="6.9" name="Moderate breeze" />
+        <temperature unit="celcius" value="5" />
+        <pressure unit="hPa" value="1024.1" />
+      </time>
+      <time from="2010-05-15T15:00:00" to="2010-05-15T21:00:00" period="3">
+        <!-- Valid from 2010-05-15T15:00:00 to 2010-05-15T21:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="1.2" />
+        <!-- Valid at 2010-05-15T15:00:00 -->
+        <windDirection deg="179.8" code="S" name="South" />
+        <windSpeed mps="7.3" name="Moderate breeze" />
+        <temperature unit="celcius" value="5" />
+        <pressure unit="hPa" value="1026.0" />
+      </time>
+      <time from="2010-05-15T21:00:00" to="2010-05-16T03:00:00" period="0">
+        <!-- Valid from 2010-05-15T21:00:00 to 2010-05-16T03:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="1.4" />
+        <!-- Valid at 2010-05-15T21:00:00 -->
+        <windDirection deg="190.6" code="S" name="South" />
+        <windSpeed mps="4.2" name="Gentle breeze" />
+        <temperature unit="celcius" value="4" />
+        <pressure unit="hPa" value="1028.5" />
+      </time>
+      <time from="2010-05-16T03:00:00" to="2010-05-16T09:00:00" period="1">
+        <!-- Valid from 2010-05-16T03:00:00 to 2010-05-16T09:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="2.1" />
+        <!-- Valid at 2010-05-16T03:00:00 -->
+        <windDirection deg="186.1" code="S" name="South" />
+        <windSpeed mps="1.7" name="Light breeze" />
+        <temperature unit="celcius" value="3" />
+        <pressure unit="hPa" value="1026.8" />
+      </time>
+      <time from="2010-05-16T09:00:00" to="2010-05-16T15:00:00" period="2">
+        <!-- Valid from 2010-05-16T09:00:00 to 2010-05-16T15:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="1.4" />
+        <!-- Valid at 2010-05-16T09:00:00 -->
+        <windDirection deg="212.5" code="SSW" name="South-southwest" />
+        <windSpeed mps="3.2" name="Light breeze" />
+        <temperature unit="celcius" value="3" />
+        <pressure unit="hPa" value="1024.8" />
+      </time>
+      <time from="2010-05-16T15:00:00" to="2010-05-16T21:00:00" period="3">
+        <!-- Valid from 2010-05-16T15:00:00 to 2010-05-16T21:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="0.4" />
+        <!-- Valid at 2010-05-16T15:00:00 -->
+        <windDirection deg="168.7" code="SSE" name="South-southeast" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celcius" value="9" />
+        <pressure unit="hPa" value="1019.7" />
+      </time>
+      <time from="2010-05-17T09:00:00" to="2010-05-17T15:00:00" period="2">
+        <!-- Valid from 2010-05-17T09:00:00 to 2010-05-17T15:00:00 -->
+        <symbol number="9" name="Rain" />
+        <precipitation value="0.6" />
+        <!-- Valid at 2010-05-17T09:00:00 -->
+        <windDirection deg="218.9" code="SW" name="Southwest" />
+        <windSpeed mps="2.5" name="Light breeze" />
+        <temperature unit="celcius" value="8" />
+        <pressure unit="hPa" value="1021.5" />
+      </time>
+      <time from="2010-05-18T09:00:00" to="2010-05-18T15:00:00" period="2">
+        <!-- Valid from 2010-05-18T09:00:00 to 2010-05-18T15:00:00 -->
+        <symbol number="1" name="Fair" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-18T09:00:00 -->
+        <windDirection deg="247.3" code="WSW" name="West-southwest" />
+        <windSpeed mps="1.4" name="Light air" />
+        <temperature unit="celcius" value="8" />
+        <pressure unit="hPa" value="1017.9" />
+      </time>
+      <time from="2010-05-19T09:00:00" to="2010-05-19T15:00:00" period="2">
+        <!-- Valid from 2010-05-19T09:00:00 to 2010-05-19T15:00:00 -->
+        <symbol number="3" name="Partly cloudy" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-19T09:00:00 -->
+        <windDirection deg="229.1" code="SW" name="Southwest" />
+        <windSpeed mps="1.7" name="Light breeze" />
+        <temperature unit="celcius" value="10" />
+        <pressure unit="hPa" value="1017.9" />
+      </time>
+      <time from="2010-05-20T09:00:00" to="2010-05-20T15:00:00" period="2">
+        <!-- Valid from 2010-05-20T09:00:00 to 2010-05-20T15:00:00 -->
+        <symbol number="4" name="Cloudy" />
+        <precipitation value="0.0" />
+        <!-- Valid at 2010-05-20T09:00:00 -->
+        <windDirection deg="268.1" code="W" name="West" />
+        <windSpeed mps="0.8" name="Light air" />
+        <temperature unit="celcius" value="9" />
+        <pressure unit="hPa" value="1016.4" />
+      </time>
+      <time from="2010-05-21T09:00:00" to="2010-05-21T15:00:00" period="2">
+        <!-- Valid from 2010-05-21T09:00:00 to 2010-05-21T15:00:00 -->
+        <symbol number="4" name="Cloudy" />
+        <precipitation value="0.1" />
+        <!-- Valid at 2010-05-21T09:00:00 -->
+        <windDirection deg="123.9" code="SE" name="Southeast" />
+        <windSpeed mps="1.3" name="Light air" />
+        <temperature unit="celcius" value="10" />
+        <pressure unit="hPa" value="1013.3" />
+      </time>
+    </tabular>
+  </forecast>
+</weatherdata>
